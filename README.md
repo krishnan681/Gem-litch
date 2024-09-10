@@ -19,3 +19,8 @@ Leveraging ScrollTrigger, the page includes interactive scrolling effects that b
 
 
 # __Here's the sample video__
+
+
+https://github.com/user-attachments/assets/c023ac12-c879-4db8-860d-7c24ca086fa6
+
+
