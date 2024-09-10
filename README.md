@@ -28,13 +28,14 @@ https://github.com/user-attachments/assets/c023ac12-c879-4db8-860d-7c24ca086fa6
 
 <h3>I have not uploaded photos for the scroll trigger. Here are the steps to do it:</h3>
 
-<p>1. Create your own design (video) using Blender and render it frame by frame.<br><br>
+<p>
+1. Create your own design (video) using Blender and render it frame by frame.<br><br>
 2. or choose a video and convert it into JPEG or PNG images.<br><br>
 3. Place these images in a separate folder within the existing folder.<br><br>
 4. call that folder name into a function <br><br>
-Eg: const currentFrame = (index) =>**`./house/**${(index + 1).toString()}.png`;</p>
-
-
+Eg: const currentFrame = (index) =>**`./house/**${(index + 1).toString()}.png`;<br><br>
+5. and i have given the javascript file above check that out
+</p>
 
 
 
